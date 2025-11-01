@@ -90,7 +90,7 @@
 ### Quick practice menu (do-it-now)
 * **Pattern demo (Concept 1):** Load a photo and list 3 ways to represent it numerically (pixels, embeddings, edge maps).
 * **ML in minutes (Concept 2):** Train a webcam classifier with Teachable Machine and test with different objects.
-* **Prompt ladder (Concept 4):** Write a weak prompt → improve it with Role/Audience/Task/Constraints → add examples → add a rubric.
+* **Prompt ladder (Concept 4):** Write a weak-looking prompt → improve it with Role/Audience/Task/Constraints → add examples → add a rubric.
 * **RAG taste test (Concept 6):** Ask an AI about your own doc with and without retrieval; compare specificity and citations.
 * **Safety check (Concept 10):** Take any generated output and run a quick ethics checklist: disclosure? privacy? rights? harmful bias?
 
