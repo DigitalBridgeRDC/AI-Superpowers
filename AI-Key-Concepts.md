@@ -1,5 +1,3 @@
-Here is that text converted to Markdown:
-
 ## 🧠 Key Concepts — Expanded
 
 ### AI is not magic — it’s patterns in numbers
