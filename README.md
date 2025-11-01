@@ -1,6 +1,9 @@
 🌐 **AI Tools & Resources — Quick Reference**
 
-Here is the formatted list with one item per line:
+Here’s a quick reference to essential AI tools, grouped by use case (text, images, video, audio, 3D). It’s not a fixed “top 10,” but a playground to explore, learn, and create faster and better. Browse the links, try two or three tools per category, compare results on the same prompt, and jot down what you like (quality, speed, cost, simplicity).
+
+Getting started tip: pick a concrete project (e.g., poster, clip, mini-app), set a time limit (30–45 minutes), iterate quickly, and keep your best versions. Don’t forget ethics (sources, rights, privacy) and—most importantly—have fun: AI rewards curiosity, experimentation, and bold ideas.
+
 
 ## 🧠 Text & Chat
 * ChatGPT — Conversational AI for writing, coding, and learning. [https://chat.openai.com](https://chat.openai.com)
